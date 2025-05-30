@@ -1,4 +1,3 @@
-```markdown
 # Rewrite & Style Transformer
 
 Rewrite & Style Transformer is an AI-powered application that transforms text into different tones and writing styles using LangChain 1.0, OpenAI GPT models, and Gradio. This tool demonstrates practical AI workflows by combining prompt templates, language models, and a user-friendly interface.
@@ -26,7 +25,7 @@ rewrite-transformer/
 ├── README.md                        # Project documentation
 └── LICENSE                          # MIT License
 
-````
+```
 
 ---
 
